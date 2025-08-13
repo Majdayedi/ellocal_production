@@ -10,7 +10,7 @@ const Header = () => {
     { label: "Accueil", href: "#home" },
     { label: "Services", href: "#services" },
     { label: "À Propos", href: "#about" },
-    { label: "Studio", href: "#studio" },
+    { label: "farouk laroussi (le grand)", href: "#studio" },
     { label: "Contact", href: "#contact" },
   ];
 
